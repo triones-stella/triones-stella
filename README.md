@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am triones-stella 🔭
 
 <!--
 **triones-stella/triones-stella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
